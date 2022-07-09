@@ -28,5 +28,10 @@
     "minecraft": "~1.19",
     "java": ">=17",
     "figura":"=0.0.8"
+  },
+  "custom": {
+    "modmenu": {
+      "parent": "figura"
+    }
   }
 }
