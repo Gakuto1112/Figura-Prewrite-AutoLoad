@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package com.github.gakuto1112.figura_prewrite_autoload;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
