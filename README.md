@@ -1,11 +1,15 @@
-# Fabric Example Mod
+# Figura Prewrite AutoLoad
 
 日本語版は[**こちら**](README（日本語）.md)です。
 
-## Setup
+This is an auxiliary mod that automatically loads local avatars when loading the world in the [Figura Prewrite version (0.0.8)](https://github.com/Moonlight-MC/Figura), which no longer supports backend servers.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Download from here.
 
-## License
+![Main](README_Images/メイン.gif)
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## How to use
+After installing this mod, select your avatar as usual from the Figura menu. From the next time on, the selected avatar will be loaded automatically.
+
+## Note
+- Since the mod was created in a short time, there may be bugs lurking in it.
