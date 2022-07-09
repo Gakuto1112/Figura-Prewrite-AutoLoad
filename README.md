@@ -1,10 +1,10 @@
 # Figura Prewrite AutoLoad
 
-日本語版は[**こちら**](README（日本語）.md)です。
+日本語版は[こちら](README（日本語）.md)です。
 
 This is an auxiliary mod that automatically loads local avatars when loading the world in the [Figura Prewrite version (0.0.8)](https://github.com/Moonlight-MC/Figura), which no longer supports backend servers.
 
-Download from here.
+Download from [here](https://github.com/Gakuto1112/Figura-Prewrite-AutoLoad/releases/tag/v1.0.0).
 
 ![Main](README_Images/メイン.gif)
 

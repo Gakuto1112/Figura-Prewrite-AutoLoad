@@ -1,9 +1,9 @@
 # Figura Prewrite AutoLoad
-English version is [**here**](README.md).
+English version is [here](README.md).
 
 バックエンドサーバーのサポートが打ち切られた[Figura Prewrite版（0.0.8）](https://github.com/Moonlight-MC/Figura)で、ワールドのロード時に自動でローカルアバターを読み込む補助Modです。
 
-ダウンロードはこちらから。
+ダウンロードは[こちら](https://github.com/Gakuto1112/Figura-Prewrite-AutoLoad/releases/tag/v1.0.0)から。
 
 ![メイン](README_Images/メイン.gif)
 
