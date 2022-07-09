@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.gakuto1112.figura_prewrite_autoload.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "FiguraGuiScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

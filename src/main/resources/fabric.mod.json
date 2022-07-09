@@ -2,7 +2,6 @@
   "schemaVersion": 1,
   "id": "figura_prewrite_autoload",
   "version": "${version}",
-
   "name": "Figura Prewrite Autoload",
   "description": "This is an auxiliary mod that automatically loads local avatars when loading the world in the Figura Prewrite version, which no longer supports backend servers.",
   "authors": [
@@ -12,16 +11,17 @@
     "issues": "https://github.com/Gakuto1112/Figura-Prewrite-AutoLoad/issues",
     "sources": "https://github.com/Gakuto1112/Figura-Prewrite-AutoLoad"
   },
-
   "license": "CC0-1.0",
   "icon": "assets/figura_prewrite_autoload/icon.png",
-
   "environment": "client",
   "entrypoints": {
-    "main": [
-      "com.github.gakuto1112.figura_prewrite_autoload.ExampleMod"
+    "client": [
+      "com.github.gakuto1112.figura_prewrite_autoload.FiguraPrewriteAutoload"
     ]
   },
+  "mixins": [
+    "figura_prewrite_autoload_mixins.json"
+  ],
   "depends": {
     "fabricloader": ">=0.14.6",
     "fabric": "*",
