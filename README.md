@@ -8,6 +8,12 @@ Download from [here](https://github.com/Gakuto1112/Figura-Prewrite-AutoLoad/rele
 
 ![Main](README_Images/メイン.gif)
 
+## Operating environment
+- [Minecraft](https://www.minecraft.net/) 1.19
+- [Fabric Loader](https://fabricmc.net/) 0.14.6 or newer
+- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+- [Figura](https://www.curseforge.com/minecraft/mc-mods/figura) 0.0.8-1.19
+
 ## How to use
 After installing this mod, select your avatar as usual from the Figura menu. From the next time on, the selected avatar will be loaded automatically.
 
